@@ -1,0 +1,119 @@
+Game 0 : Raiju : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 1 : Thaye : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 2 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 3 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 4 : Jinn : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 5 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 6 : Obake : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 7 : Moroi : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 8 : Yokai : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 9 : Spirit : Multiplier 15.00x : 0 Evidence : Sunny Meadows : bm
+Game 10 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 11 : Wraith : Multiplier 4.72x : 2 Evidence : Bleasdale
+Game 12 : Onryo : Multiplier 4.72x : 2 Evidence : Sunny Meadows
+Game 13 : Onryo : Multiplier 4.72x : 2 Evidence : Sunny Meadows Restricted
+Game 14 : Spirit : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 15 : Poltergeist : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 16 : Mare : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 17 : Deogen : Multiplier 11.35x : 0 Evidence : Camp Woodwind : bm
+Game 18 : Jinn : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 19 : Mare : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 20 : Mare : Multiplier 5.04x : 2 Evidence : Prison
+Game 21 : Thaye : Multiplier 5.04x : 2 Evidence : Ridgeview
+Game 22 : Phantom : Multiplier 5.04x : 2 Evidence : Camp Woodwind
+Game 23 : Wraith : Multiplier 5.04x : 2 Evidence : Bleasdale
+Game 24 : Banshee : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 25 : Oni : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 26 : Banshee : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 27 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 28 : Deogen : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 29 : Goryo : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 30 : Shade : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 31 : Mare : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 32 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 33 : Jinn : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 34 : The Mimic : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 35 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 36 : Shade : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 37 : Banshee : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 38 : Onryo : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 39 : Shade : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 40 : Yokai : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 41 : Goryo : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 42 : Yurei : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 43 : Onryo : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 44 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 45 : Moroi : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 46 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 47 : Spirit : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 48 : Poltergeist : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 49 : Myling : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 50 : Banshee : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 51 : The Mimic : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 52 : Demon : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 53 : Jinn : Multiplier 15.00x : 0 Evidence : Sunny Meadows : bm
+Game 54 : Shade : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 55 : Oni : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 56 : Yokai : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 57 : Jinn : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 58 : Mare : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 59 : Banshee : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 60 : Obake : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 61 : Deogen : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 62 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 63 : The Mimic : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 64 : Jinn : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 65 : Phantom : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 66 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 67 : Mare : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 68 : Spirit : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 69 : Revenant : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 70 : Yurei : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 71 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 72 : The Twins : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 73 : Thaye : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 74 : Goryo : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 75 : Spirit : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 76 : Shade : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 77 : Deogen : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 78 : Oni : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 79 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 80 : Yokai : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 81 : Mare : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 82 : Moroi : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 83 : Yokai : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 84 : Oni : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 85 : Deogen : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 86 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 87 : Revenant : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 88 : Moroi : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 89 : Jinn : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 90 : Revenant : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 91 : Obake : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 92 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 93 : Jinn : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 94 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 95 : Shade : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 96 : Myling : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 97 : Moroi : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 98 : Hantu : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 99 : Revenant : Multiplier 15.00x : 0 Evidence : Sunny Meadows
+Game 100 : Spirit : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 101 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 102 : Mare : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 103 : Moroi : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 104 : Oni : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 105 : Goryo : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 106 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 107 : Jinn : Multiplier cx : 3 Evidence : Tanglewood
+Game 108 : Shade : Multiplier cx : 3 Evidence : Sunny Meadows
+Game 109 : Thaye : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 110 : Yurei : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 111 : Hantu : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 112 : Phantom : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 113 : Hantu : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 114 : Yurei : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 115 : The Mimic : Multiplier 11.35x : 0 Evidence : Camp Woodwind
+Game 116 : Onryo : Multiplier cx : 3 Evidence : Sunny Meadows
+Game 117 : Jinn : Multiplier cx : 3 Evidence : Sunny Meadows
+Game 118 : Shade : Multiplier 5.04x : 2 Evidence : Maple Lodge
